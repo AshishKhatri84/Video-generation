@@ -60,4 +60,3 @@ Target Audience: Affluent couples seeking unique, culturally-rich wedding experi
 Brand Message: Premium destination wedding planning with heritage and modern luxury
 Visual Style: Warm, romantic, aspirational
 
-=====================================
