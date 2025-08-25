@@ -1,19 +1,14 @@
 # Destination Wedding Promotional Video
-=====================================
 
 30-Second Social Media Video for DestinationWeddingsIndia.com
 
 VIDEO LINK: https://drive.google.com/file/d/1-r-zAbyyHchUccNWMeLq8xnbNx966oJU/view?usp=sharing
 
-=====================================
-PROJECT OVERVIEW
-=====================================
+## PROJECT OVERVIEW
 
 Created a premium 30-second promotional video showcasing India's luxury destination wedding venues. The video combines AI-generated visuals with professional storytelling to highlight royal palaces, beach ceremonies, and cultural heritage experiences.
 
-=====================================
-TECHNICAL SPECIFICATIONS
-=====================================
+## TECHNICAL SPECIFICATIONS
 
 Duration: 30+ seconds
 Resolution: 1080p landscape
@@ -21,9 +16,7 @@ Music: "Sunshine Memory" - romantic background track
 Typography: Playfair Display (luxury serif font)
 Brand Integration: Official DestinationWeddingsIndia.com logo
 
-=====================================
-TOOLS & WORKFLOW
-=====================================
+## TOOLS & WORKFLOW
 
 Image Generation:
 - Leonardo.ai (cinematic wedding venue shots)
@@ -40,9 +33,7 @@ Content Strategy:
 - Premium brand positioning  
 - Cultural authenticity with modern appeal
 
-=====================================
-VISUAL CONTENT
-=====================================
+## VISUAL CONTENT
 
 Scene Breakdown:
 1. Opening hook with kaleidoscope effect
@@ -61,9 +52,7 @@ Text Overlays:
 - "Where Love Meets Joy"
 - "Your Dream Starts Here"
 
-=====================================
-CREATIVE APPROACH
-=====================================
+## CREATIVE APPROACH
 
 Focused on premium luxury positioning while maintaining cultural authenticity. Used poetic text overlays and cinematic visuals to create emotional connection with couples planning destination weddings in India.
 
