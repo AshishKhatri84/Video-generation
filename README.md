@@ -2,7 +2,7 @@
 
 30-Second Social Media Video for DestinationWeddingsIndia.com
 
-VIDEO LINK: https://drive.google.com/file/d/1-r-zAbyyHchUccNWMeLq8xnbNx966oJU/view?usp=sharing
+VIDEO LINK: https://youtube.com/shorts/YTVi5-ictew?feature=share
 
 ## PROJECT OVERVIEW
 
