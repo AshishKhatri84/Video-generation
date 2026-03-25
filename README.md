@@ -8,8 +8,8 @@ A curated collection of AI-powered video projects combining cinematic storytelli
 
 | # | Project | Duration | Resolution | Link |
 |---|---------|----------|------------|------|
-| 1 | Destination Wedding Promotional Video | 30+ sec | 1080p | [▶ Watch](https://youtube.com/shorts/YTVi5-ictew?feature=share) |
-| 2 | AI Explainer Video – Guru99 | 26 sec | — | [▶ Watch](https://youtu.be/pC9lfZxBDj8) |
+| 1 | Destination Wedding Promotional Video | 30 sec | 1080p | [▶ Watch](https://youtube.com/shorts/YTVi5-ictew?feature=share) |
+| 2 | AI Explainer Video – Guru99 | 26 sec | 720p | [▶ Watch](https://youtu.be/pC9lfZxBDj8) |
 | 3 | AI Cinematic Perfume Advertisement | 9 sec | 540p | [▶ Watch](https://youtu.be/ioiMQp1Htpw) |
 | 4 | AI Startup Launch Trailer | 26 sec | 1080p | [▶ Watch](https://youtu.be/bhI1U1EamIA) |
 
@@ -27,7 +27,7 @@ A premium 30-second promotional video showcasing India's luxury destination wedd
 
 | Property | Value |
 |----------|-------|
-| Duration | 30+ seconds |
+| Duration | 30 seconds |
 | Resolution | 1080p (Landscape) |
 | Music | Sunshine Memory – romantic background |
 | Typography | Playfair Display (luxury serif) |
